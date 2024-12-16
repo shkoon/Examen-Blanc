@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Examen Blanc Master Sdia.iml" filepath="$PROJECT_DIR$/Examen Blanc Master Sdia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conference-service/conference-service.iml" filepath="$PROJECT_DIR$/conference-service/conference-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-service/config-service.iml" filepath="$PROJECT_DIR$/config-service/config-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discovery-service/discovery-service.iml" filepath="$PROJECT_DIR$/discovery-service/discovery-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-service/gateway-service.iml" filepath="$PROJECT_DIR$/gateway-service/gateway-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/keynotes-service/keynotes-service.iml" filepath="$PROJECT_DIR$/keynotes-service/keynotes-service.iml" />
+    </modules>
+  </component>
+</project>
